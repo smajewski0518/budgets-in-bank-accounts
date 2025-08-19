@@ -1,6 +1,12 @@
 # budgets-in-bank-accounts
 ### Banking Budgets Use Cases
 
+**Link bank account(s)**
+User can choose tk link bank accounts or move forward without and manually enter total amount as it changes.
+
+**Total Amount Updates**
+User will be prompted with current total amount and/or asked if additional funds available.
+
 **Create a Savings Goal**: The user can define a new savings goal by giving it a **name** (e.g., "New Kayak"), a **target amount** (e.g., $300), and an optional **target date**.
 
 **View Goals Dashboard**: The user can see a list of all their active goals. Each goal displays its name, the target amount, the current amount saved, and a **progress bar** showing the percentage complete.
